@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "an app that will generate a portfolio based on user input",
+  "main": "app.js",
+  "scripts": {
+    "test": "test portfolio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWelch775/portfolio-generator.git"
+  },
+  "keywords": [
+    "portfolio",
+    "generator"
+  ],
+  "author": "Justin Welch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JWelch775/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/JWelch775/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
